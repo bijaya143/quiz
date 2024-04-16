@@ -1,5 +1,4 @@
 import 'package:quiz/mcq.dart';
-import 'package:quiz/user_input_process.dart';
 import 'package:quiz/question.dart';
 import 'package:quiz/yes_no.dart';
 

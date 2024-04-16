@@ -1,5 +1,3 @@
-import 'dart:io';
-
 import 'package:quiz/question.dart';
 
 abstract class UserInputProcess {
